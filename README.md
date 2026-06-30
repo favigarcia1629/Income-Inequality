@@ -2,8 +2,7 @@
                                                                                                     
   **How unequal is income in America — and what would a wealth tax do about it?**                   
                                                                                                     
-  **[Live Dashboard →](https://public.tableau.com/app/profile/favianesi.garcia/viz/IncomeInequality_
-  17813089695540/IncomeInequalityDashboard)**                                                       
+  **[Live Dashboard →](https://public.tableau.com/app/profile/favianesi.garcia/viz/IncomeInequality_17813089695540/IncomeInequalityDashboard)**                                                       
                                                                                                   
   ---
 
